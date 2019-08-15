@@ -1,0 +1,214 @@
+
+body {
+    background-image: url("images/background.jpeg");
+    background-attachment: fixed;
+}
+
+.nav-link {
+    font-size: 20px;
+    font-family:'Acme';
+}
+
+.nav-item a:hover {
+    font-weight: bold;
+}
+
+.nav-item img{
+    height: 100px;
+    width: 100px;
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.navbar .dropdown-menu a {
+    text-decoration: none;
+    list-style: none;
+    line-height: 15px;
+    font-family:'Acme';
+}
+
+.navbar .dropdown-menu a:hover {
+    color: #628856;
+    font-weight: bold;
+}
+
+.col-6,.col-3, .col-4 {
+    margin: 50px 30px 0px 0px;
+    padding: 20px;
+    background-image: url("images/container.jpg"); 
+    font-size: 19px;
+    border-radius: 20px;
+}
+
+.col-6 p {
+    text-indent: 5%;
+    font-family:'Acme';
+    margin-bottom: 0px;
+}
+
+.col-6 h3 {
+    color: #0f200c;
+    line-height: 0.5em;
+    font-weight: bold;
+    text-align: center;
+    font-family:'Acme'
+}
+
+.water {
+    color: blue;
+    font-family:'Acme';
+}
+
+.gas {
+    color: yellow;
+    font-family:'Acme';
+}
+
+.electricity {
+    color: green;
+    font-family:'Acme';
+}
+
+.sewerage {
+    color: brown;
+    font-family:'Acme';
+}
+
+#container_hobbies .col-6 img {
+    width: 170px;
+    height: 140px;
+    border-radius: 50%;
+    float: right; 
+}
+
+#container_hobbies p {
+    font-family:'Acme';
+    margin-bottom: 0px;
+}
+
+.col-3 h3 {
+    color: #0f200c;
+    text-align: center;
+    font-family:'Acme'
+}
+
+#container_hobbies .col-3 a {
+    color: black;
+    text-decoration: none;
+    list-style: none;
+    line-height: 15px;
+    font-family:'Acme';
+    font-size: 20px;
+}
+
+#container_hobbies .col-3 a:hover {
+    color: #628856;
+    font-weight: bold;
+}
+
+#container_hobbies .col-3 li {
+    list-style: none;
+}
+
+#container_hobbies .col-3 p {
+    margin-left: 15px;
+    font-size: 22px;
+}
+
+.col-8 {
+    margin: 50px 30px 0px 0px;
+    padding: 10px;
+    background-image: url("images/container2.jpg"); 
+    font-size: 19px;
+    border-radius: 20px;
+}
+
+.col-8 td, tr {
+    border: 2px solid #525550;
+    padding: 5px;
+    color: #0f200c;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    font-family:'Acme'
+}
+
+#container_expertise .col-8 th {
+    border: 2px solid #525550;
+    padding: 5px;
+    color: #628856;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family:'Acme'
+}
+
+.col-8 h3 {
+    color: #0f200c;
+    line-height: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-family:'Acme'
+}
+
+.col-8 a {
+    color:black;
+    text-decoration: none;
+    list-style: none;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.col-8 a:hover {
+    color: #628856;
+    font-weight: bold;
+}
+
+.col-8 img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+
+}
+
+#container_expertise .col-8 img:hover {
+    box-shadow: 0 0 2px 1px #628856;
+}
+
+#container_learning .col-8 th {
+    border: 2px solid #525550;
+    padding: 5px;
+    color: #628856;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family:'Acme'
+}
+
+#container_learning {
+    margin-bottom: 50px;
+}
+
+.card-deck {
+    padding: 100px 100px 200px 100px;
+}
+
+.map-container iframe{
+    height:100%;
+    width:100%;
+}
+
+.col-3 strong {
+    font-family:'Acme'
+}
+
+#contact-section.card {
+    margin: 10% 20% 10% 20% ;
+}
+
+.navbar a {
+    font-size: 20px;
+    font-family:'Acme'
+}
